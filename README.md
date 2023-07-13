@@ -1,2 +1,2 @@
-# Personal_projects
-Trabajo en diferentes proyectos personales de analisis de datos 
+# Economia_Pereira
+Análisis de indicadores económicos en la ciudad de Pereira
