@@ -12,9 +12,9 @@
  
 ### Data cleaning / Limpieza de datos
 
-- Code Used for Data Cleaning in Python (Pandas) can be found in the file Clean.ipynb.
+- Code Used for Data Cleaning in Python (Pandas) can be found in the file Cleaning.ipynb.
 
-- Código utilizado para la limpieza de datos en Python (Pandas) se puede encontrar en el archivo Clean.ipynb.
+- Código utilizado para la limpieza de datos en Python (Pandas) se puede encontrar en el archivo Cleaning.ipynb.
 
 ## Analysis
 
