@@ -65,6 +65,12 @@ Poverty rate
 
 > The complete dashboard can be found in the file "dashboard.md".
 
+Gender analysis
+
+![](https://i.imgur.com/nstVD6f.png[/img])
+
+> The complete dashboard can be found in the file "dashboard.md".
+
 ### Conclusion 
 
 ##### Business Questions
