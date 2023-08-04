@@ -36,7 +36,7 @@ Para este proyecto, se extrajo información de TerriData, que proporciona datos 
 
 2. Employment and income per capita showed consistent growth from 2010 to 2020.
 
-3. The tertiary sector is the most significant income-generating activity in Pereira, accounting for 72.6% of economic activity.
+3. The tertiary sector is the most significant income-generating activity in Pereira, accounting for 72.6% of economic activity.              
 
 4. The data indicates that education, healthcare, and transportation have received the highest investments in Pereira.
 
@@ -67,7 +67,7 @@ Poverty rate
 
 Gender analysis
 
-![](https://i.imgur.com/nstVD6f.png[/img])
+![](https://i.imgur.com/Kz2j1p4.png[/img])
 
 > The complete dashboard can be found in the file "dashboard.md".
 
@@ -125,6 +125,3 @@ I would suggest investing in Pereira due to its significant economic growth. The
 Recomendaría invertir en Pereira debido a su notable crecimiento económico. La ciudad ha experimentado un aumento en su población y empleo, lo cual indica una perspectiva positiva.
 
  
-
-
-
