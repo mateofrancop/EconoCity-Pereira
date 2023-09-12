@@ -16,7 +16,7 @@
 - Code used for Data analysis in python (pandas, matplotlib, seaborn) can be found in the file [analysis.ipynb](https://github.com/mateofrancop/Personal_projects-Data-Analyst-/blob/main/Rinconcito_del_sabor/analysis.ipynb)
 
 ### Dashboard
-- You can downland here [dashboard](https://github.com/mateofrancop/Personal_projects-Data-Analyst-/blob/main/Rinconcito_del_sabor/Analisis_RS.pbix) 
+- You can downland here [dashboard](https://github.com/mateofrancop/Personal_projects-Data-Analyst-/blob/main/Rinconcito_del_sabor/Analisis_RS.pbix) (power bi)
 
 ## Analysis
 
