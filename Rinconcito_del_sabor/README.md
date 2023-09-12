@@ -22,4 +22,12 @@
 
 ##### The company has presented a decrease in sales therefore need to know whats is going on 
 
-The company provides data about his inputs and outputs since april 2022 to june 2023. However the infromation was meesy, so cleaning was necessary.  
+The bussistens is about a coffe located in the downtown, have a lot of goods and products with more than 7 years on the market. The company provides data about his inputs and outputs since april 2022 to june 2023. However the information was meesy, so cleaning was necessary.
+
+### Results 
+
+1. ##### There is a dowland trend of sales 
+
+In the dashbord done in power bi, you can see how there is a dowland trend of sales on the line graph, besides finding out about the company i found that there is a denpendence from a near university, therefore in month like November-December and june - july which studends get out of class (holidays) the sales decrease, also since there was a closure in the scheduled appointment in the mornig and they made it virtual the decrease sales started off 
+
+
