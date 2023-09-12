@@ -15,6 +15,8 @@
 ### Data analysis
 - Code used for Data analysis in python (pandas, matplotlib, seaborn) can be found in the file [analysis.ipynb](https://github.com/mateofrancop/Personal_projects-Data-Analyst-/blob/main/Rinconcito_del_sabor/analysis.ipynb)
 
+### Dashboard
+- You can downland here [dashboard](https://github.com/mateofrancop/Personal_projects-Data-Analyst-/blob/main/Rinconcito_del_sabor/Analisis_RS.pbix) (power bi)
 
 ## Analysis
 
@@ -30,4 +32,8 @@ The bussistens is about a coffe located in the downtown, have a lot of goods and
 
 In the dashbord done in power bi, you can see how there is a dowland trend of sales on the line graph, besides finding out about the company i found that there is a denpendence from a near university, therefore in month like November-December and june - july which studends get out of class (holidays) the sales decrease, also since there was a closure in the scheduled appointment in the mornig and they made it virtual the decrease sales started off 
 
+![](https://i.imgur.com/rfkY4gd.png[/img)
+> The complete dashboard can be downland [here](https://github.com/mateofrancop/Personal_projects-Data-Analyst-/blob/main/Rinconcito_del_sabor/Analisis_RS.pbix) (power bi).
 
+![](https://i.imgur.com/WB6gcqY.png[/img)
+> The complete dashboard can be downland [here](https://github.com/mateofrancop/Personal_projects-Data-Analyst-/blob/main/Rinconcito_del_sabor/Analisis_RS.pbix) (power bi).
