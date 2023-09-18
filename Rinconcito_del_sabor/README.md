@@ -28,12 +28,24 @@ The bussistens is about a coffe located in the downtown, have a lot of goods and
 
 ### Results 
 
-1. ##### There is a dowland trend of sales 
+- #####There is a dowland trend of sales. 
 
-In the dashbord done in power bi, you can see how there is a dowland trend of sales on the line graph, besides finding out about the company i found that there is a denpendence from a near university, therefore in month like November-December and june - july which studends get out of class (holidays) the sales decrease, also since there was a closure in the scheduled appointment in the mornig and they made it virtual the decrease sales started off 
+In the dashbord done in power bi, you can see how there is a dowland trend of sales on the line graph, besides finding out about the company i found that there is a denpendence from a near university, therefore in month like November-December and june - july which studends get out of class (holidays) the sales decrease, also since there was a closure in the scheduled appointment in the mornig and they made it virtual the decrease sales started off.
+
+- #####Selling features. 
+
+1. Since april 2022 to june 2023 the whole input was 151,4 mill. what its a good indicator taking into account the context to the contry and the market.
+
+2. The best sales month is august in which there is more students than the rest of the year this attracts more customers.
+
+3. the worst sales day of the weekday is friday, when there is less students than the rest of the days, also there are no many people on the streat, so there is less traffic. 
 
 ![](https://i.imgur.com/rfkY4gd.png[/img)
 > The complete dashboard can be downland [here](https://github.com/mateofrancop/Personal_projects-Data-Analyst-/blob/main/Rinconcito_del_sabor/Analisis_RS.pbix) (power bi).
+
+-##### 
+
+
 
 ![](https://i.imgur.com/WB6gcqY.png[/img)
 > The complete dashboard can be downland [here](https://github.com/mateofrancop/Personal_projects-Data-Analyst-/blob/main/Rinconcito_del_sabor/Analisis_RS.pbix) (power bi).
