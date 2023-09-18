@@ -28,11 +28,11 @@ The bussistens is about a coffe located in the downtown, have a lot of goods and
 
 ### Results 
 
-- #####There is a dowland trend of sales. 
+- ##### There is a dowland trend of sales. 
 
 In the dashbord done in power bi, you can see how there is a dowland trend of sales on the line graph, besides finding out about the company i found that there is a denpendence from a near university, therefore in month like November-December and june - july which studends get out of class (holidays) the sales decrease, also since there was a closure in the scheduled appointment in the mornig and they made it virtual the decrease sales started off.
 
-- #####Selling features. 
+- ##### Selling features. 
 
 1. Since april 2022 to june 2023 the whole input was 151,4 mill. what its a good indicator taking into account the context to the contry and the market.
 
