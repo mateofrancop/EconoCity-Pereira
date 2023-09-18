@@ -34,7 +34,7 @@ In the dashbord done in power bi, you can see how there is a dowland trend of sa
 
 - ##### Selling features. 
 
-1. Since april 2022 to june 2023 the whole input was 151,4 mill. what its a good indicator taking into account the context to the contry and the market.
+1. Since april 2022 to june 2023 the whole input was 151,4 mill. what its a good indicator taking into account the context of the contry and the market.
 
 2. The best sales month is august in which there is more students than the rest of the year this attracts more customers.
 
@@ -43,8 +43,15 @@ In the dashbord done in power bi, you can see how there is a dowland trend of sa
 ![](https://i.imgur.com/rfkY4gd.png[/img)
 > The complete dashboard can be downland [here](https://github.com/mateofrancop/Personal_projects-Data-Analyst-/blob/main/Rinconcito_del_sabor/Analisis_RS.pbix) (power bi).
 
--##### 
+- ##### Output features
+ 
+1. Since april 2022 to june 2023 the whole output was 130,7 mill. which last year had an increment owing to the economic and political enviroment.
 
+2. the three main expensives are: supplies, payroll and rent, what is normal in this field. 
+
+3. In other hand there are other three expensives that could be related with suplies which are: beverage cost, disposable expenses, meccato expenses. being beverege cost with more outputs .
+
+4. And last but not least there are a scatter plot in which two variables are related in this case inputs and outputs, and how you can se the graph is diagonal, this indicates that the relationship is directly proportional, in other words, this indicates that between more money you invest more sales you will do    
 
 
 ![](https://i.imgur.com/WB6gcqY.png[/img)
