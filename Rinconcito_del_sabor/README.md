@@ -43,6 +43,18 @@ In the dashbord done in power bi, you can see how there is a dowland trend of sa
 ![](https://i.imgur.com/rfkY4gd.png[/img)
 > The complete dashboard can be downland [here](https://github.com/mateofrancop/Personal_projects-Data-Analyst-/blob/main/Rinconcito_del_sabor/Analisis_RS.pbix) (power bi).
 
+- ##### Input features 	
+
+How you can see in the histogram graph the mostly input data is between 400.000 and 500000 this mean that there are more days with sales in this range. what is a little worried having in account that the company need improve his sales 
+
+![](https://i.imgur.com/5vGOSvZ.png[/img])
+> The complete analysis can be see [here](https://github.com/mateofrancop/Personal_projects-Data-Analyst-/blob/main/Rinconcito_del_sabor/analysis.ipynb) (python).
+
+Besides in the behavior daily inputs and outputs graph you can see how there are days in which the outputs exceed inputs this is due to are days in which are pays like rent or payroll so the outputs increment. 
+
+![](https://i.imgur.com/OacGNGL.png[/img])
+> The complete analysis can be see [here](https://github.com/mateofrancop/Personal_projects-Data-Analyst-/blob/main/Rinconcito_del_sabor/analysis.ipynb) (python).
+
 - ##### Output features
  
 1. Since april 2022 to june 2023 the whole output was 130,7 mill. which last year had an increment owing to the economic and political enviroment.
