@@ -68,3 +68,15 @@ Besides in the behavior daily inputs and outputs graph you can see how there are
 
 ![](https://i.imgur.com/WB6gcqY.png[/img)
 > The complete dashboard can be downland [here](https://github.com/mateofrancop/Personal_projects-Data-Analyst-/blob/main/Rinconcito_del_sabor/Analisis_RS.pbix) (power bi).
+
+## Recomendations
+
+1. ##### Not only focus in universitaries coustumers but try to adquire other kind of clients, try to implement digital sales owing to currenly most people are home work therefore this could be also one of the reason of decrease sales. besides you must not be depended of the university, maybe tomorrow happen something and your only tipe of client could disappear.
+
+2. ##### Would be important create one day discount could be friday that is a day what no have many sales, this with the porpuse of increment sales, no matter if the earn or prifit is null, the most important is given to know your product and adquire more costomers  
+
+3. ##### There are month in which the profit is negative for this reason imbrice the good month to save few of monay when arrive the bad month.
+
+4. ##### would be fine figuer out about several suppliers that provid the 3 mean supplies and this way to do an especial of fidelity contrat that could give me an especial discount that allowed decreast the cost 
+
+5. ##### Last but not least between more you invest in your company more grown and good outcomes could you see. 
