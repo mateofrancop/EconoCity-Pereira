@@ -4,7 +4,7 @@ Welcome to my personal data analysis projects. In this collection of projects, I
 
 Through these initiatives, I will seek to answer questions, solve problems, and generate ideas from the data. I will utilize tools and technologies such as
 
-- Python (Pandas, Matplotlib, seaborn, sqlalchemy)
+- Python (Pandas, Matplotlib, seaborn, sqlalchemy, mysql.connector)
 - SQL (Mysql, PostgreSQL)
 - Data visualization (Tableau, Power bi) 
 
