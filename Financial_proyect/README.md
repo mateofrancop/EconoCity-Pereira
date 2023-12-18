@@ -1,20 +1,20 @@
 # Financial proyect
 
-##### in this proyect i am going to use my financial knowledge using tools like excel, python and power bi
+#### In this proyect i am going to use my financial knowledge using tools like excel, python and power bi
 
-### portafolio de inversion
+### INVESTMENT PORTFOLIO 
 
-- oro
-- apple
-- microsoft
-- google
-- nvidia
-- nasdaq
+- ORO 
+- APPLE
+- MICROSOFT 
+- GOOGLE
+- NVIDEA
+- NASDAQ
 - S&P 500
-- cocacola
-- oil
+- NIKE
+- PETROLEO
 
-#### ¿cual es el riesgo del portafolio?
-#### ¿Que correlacion hay entre los activos financieros?
-#### ¿Cual es el activo mas y menos rentable?
-#### ¿Cual es el activo mas y menos riesgoso (volatil)? 
+#### What is the risk of the portfolio?
+#### What correlation is there between financial assets?
+#### What is the most and least profitable asset?
+#### What is the most and least risky (volatile) asset?
