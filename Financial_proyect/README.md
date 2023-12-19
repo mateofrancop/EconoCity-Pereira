@@ -1,5 +1,7 @@
 # Financial proyect
 
+#### In this proyect i am going to use my financial knowledge using tools like excel, python and power bi
+
 ### INVESTMENT PORTFOLIO 
 
 - ORO 
@@ -51,7 +53,7 @@ Correlation
 
 #### What is the most and least profitable asset?
 
-### Most profitable
+###Most profitable
 
 - NVIDIA 
 
@@ -59,7 +61,7 @@ Correlation
 
 > The complete analysis can be found in the file "Analysis.ipynb"
 
-### Least profitable 
+###Least profitable 
 
 - PETROLEO 
 
@@ -67,7 +69,7 @@ Correlation
 
 > The complete analysis can be found in the file "Analysis.ipynb"
 
-### Returns comparison
+###Returns comparison
 
 ![](https://i.imgur.com/A847FLR.png[/img])
 
@@ -75,7 +77,7 @@ Correlation
 
 #### What is the most and least risky (volatile) asset?
 
-### Most risky
+###Most risky
 
 - NVIDIA
 
@@ -83,13 +85,13 @@ Standard deviation (Daily risk)  | Annual risk
 ------------- | -------------
 3.3%  | 52.2%
 
-### Histogram
+###Histogram
 
 ![](https://i.imgur.com/vj4UwIB.png[/img])
 
 > The complete analysis can be found in the file "Analysis.ipynb"
 
-### Least risky
+###Least risky
 
 - ORO
 
@@ -97,8 +99,16 @@ Standard deviation (Daily risk)  | Annual risk
 ------------- | -------------
 0.9%  | 13.9%
 
-### Histogram
+###Histogram
 
 ![](https://i.imgur.com/nEH0p6S.png[/img])
 
 > The complete analysis can be found in the file "Analysis.ipynb"
+
+# RECOMENDATIONS
+
+Based on the conducted financial analysis, it is evident that the technology sector is currently experiencing substantial growth. Despite the inherent high-risk nature of tech investments, the analysis indicates that this is an opportune moment for investment. The Markowitz graph underscores the potential for achieving excellent returns while keeping the risk at a manageable level.
+
+Furthermore, diversification plays a crucial role in mitigating risk and enhancing the overall performance of the investment portfolio. Assets such as gold (ORO), identified in the analysis, present a lower level of risk compared to the tech sector. By incorporating less risky assets like ORO, investors can effectively diversify their portfolio, thus reducing the total risk exposure.
+
+In conclusion, the recommended strategy involves capitalizing on the growth in the tech sector while concurrently incorporating less volatile assets like ORO to achieve a balanced and optimized portfolio. This approach aligns with the principles of the modern portfolio theory and has the potential to yield favorable returns with a prudent management of risk.   
