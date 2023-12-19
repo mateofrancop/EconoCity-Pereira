@@ -44,5 +44,12 @@ Markowitz
 | 17.6% | 98.4% | 4.89298227 | 
 
 #### What correlation is there between financial assets?
+
+Correlation 
+
+![](https://i.imgur.com/v3pIg4g.png[/img])
+
+> The complete analysis can be found in the file "Portafolio_Inversion.xlsx".
+
 #### What is the most and least profitable asset?
 #### What is the most and least risky (volatile) asset?
