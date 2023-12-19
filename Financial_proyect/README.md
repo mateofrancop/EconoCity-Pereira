@@ -1,7 +1,5 @@
 # Financial proyect
 
-#### In this proyect i am going to use my financial knowledge using tools like excel, python and power bi
-
 ### INVESTMENT PORTFOLIO 
 
 - ORO 
@@ -49,7 +47,58 @@ Correlation
 
 ![](https://i.imgur.com/v3pIg4g.png[/img])
 
-> The complete analysis can be found in the file "Portafolio_Inversion.xlsx".
+> The complete analysis can be found in the file "Analisis_visualizacion.pbix".
 
 #### What is the most and least profitable asset?
+
+###Most profitable
+
+- NVIDIA 
+
+![](https://i.imgur.com/EB3jV0E.png[/img])
+
+> The complete analysis can be found in the file "Analysis.ipynb"
+
+###Least profitable 
+
+- PETROLEO 
+
+![](https://i.imgur.com/vrB9UFo.png[/img])
+
+> The complete analysis can be found in the file "Analysis.ipynb"
+
+###Returns comparison
+
+![](https://i.imgur.com/A847FLR.png[/img])
+
+> The complete analysis can be found in the file "Analisis_visualizacion.pbix"
+
 #### What is the most and least risky (volatile) asset?
+
+###Most risky
+
+- NVIDIA
+
+Standard deviation (Daily risk)  | Annual risk 
+------------- | -------------
+3.3%  | 52.2%
+
+###Histogram
+
+![](https://i.imgur.com/vj4UwIB.png[/img])
+
+> The complete analysis can be found in the file "Analysis.ipynb"
+
+###Least risky
+
+- ORO
+
+Standard deviation (Daily risk)  | Annual risk 
+------------- | -------------
+0.9%  | 13.9%
+
+###Histogram
+
+![](https://i.imgur.com/nEH0p6S.png[/img])
+
+> The complete analysis can be found in the file "Analysis.ipynb"
