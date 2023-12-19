@@ -31,9 +31,18 @@ PETROLEO | 0.0%
 ORO | 15.7%
 TOTAL | 100.0%
 
+Markowitz 
 
+![](https://i.imgur.com/pK2nIjY.png[/img])
+
+> The complete analysis can be found in the file "Portafolio_Inversion.xlsx".
 
 #### What is the risk of the portfolio?
+
+| Standard Deviation (Risk)  | Profitability   | Sharpe Ratio  |
+| :------------: |:---------------:| :-----:|
+| 17.6% | 98.4% | 4.89298227 | 
+
 #### What correlation is there between financial assets?
 #### What is the most and least profitable asset?
 #### What is the most and least risky (volatile) asset?
