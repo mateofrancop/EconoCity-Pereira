@@ -53,7 +53,7 @@ Correlation
 
 #### What is the most and least profitable asset?
 
-###Most profitable
+### Most profitable
 
 - NVIDIA 
 
@@ -61,7 +61,7 @@ Correlation
 
 > The complete analysis can be found in the file "Analysis.ipynb"
 
-###Least profitable 
+### Least profitable 
 
 - PETROLEO 
 
@@ -69,7 +69,7 @@ Correlation
 
 > The complete analysis can be found in the file "Analysis.ipynb"
 
-###Returns comparison
+### Returns comparison
 
 ![](https://i.imgur.com/A847FLR.png[/img])
 
@@ -77,7 +77,7 @@ Correlation
 
 #### What is the most and least risky (volatile) asset?
 
-###Most risky
+### Most risky
 
 - NVIDIA
 
@@ -85,13 +85,13 @@ Standard deviation (Daily risk)  | Annual risk
 ------------- | -------------
 3.3%  | 52.2%
 
-###Histogram
+### Histogram
 
 ![](https://i.imgur.com/vj4UwIB.png[/img])
 
 > The complete analysis can be found in the file "Analysis.ipynb"
 
-###Least risky
+### Least risky
 
 - ORO
 
@@ -99,7 +99,7 @@ Standard deviation (Daily risk)  | Annual risk
 ------------- | -------------
 0.9%  | 13.9%
 
-###Histogram
+### Histogram
 
 ![](https://i.imgur.com/nEH0p6S.png[/img])
 
