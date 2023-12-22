@@ -37,6 +37,7 @@ Markowitz
 
 > The complete analysis can be found in the file "Portafolio_Inversion.xlsx".
 
+
 #### What is the risk of the portfolio?
 
 | Standard Deviation (Risk)  | Profitability   | Sharpe Ratio  |
