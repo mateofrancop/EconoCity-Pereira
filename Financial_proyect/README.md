@@ -1,7 +1,5 @@
 # Financial proyect
 
-#### In this proyect i am going to use my financial knowledge using tools like excel, python and power bi
-
 ### INVESTMENT PORTFOLIO 
 
 - ORO 
