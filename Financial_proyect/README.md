@@ -29,7 +29,7 @@ PETROLEO | 0.0%
 ORO | 15.7%
 TOTAL | 100.0%
 
-Markowitz 
+MARKOWITZ 
 
 ![](https://i.imgur.com/pK2nIjY.png[/img])
 
